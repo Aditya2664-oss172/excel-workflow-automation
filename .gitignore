@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
@@ -205,3 +206,26 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+=======
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment
+venv/
+.venv/
+
+# Logs
+*.log
+
+# Output files
+output/
+*.xlsx
+*.csv
+*.png
+
+# IDE settings
+.vscode/
+>>>>>>> 7991053 (Added logging and testing)
