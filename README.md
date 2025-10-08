@@ -1,7 +1,6 @@
 # 📊 Excel Workflow Automation Tool
 
-A Python-based automation tool to **clean, validate, and transform large Excel/CSV datasets**.  
-It reduces manual effort in repetitive data preparation tasks by **80%** and improves accuracy.
+An interactive Streamlit-based tool for automating Excel/CSV data workflows. This tool allows users to clean, validate, transform, analyze, and generate reports from Excel datasets, all in one platform.
 
 ---
 
